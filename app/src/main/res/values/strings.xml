@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">loggin_base</string>
+    <string name="app_email">Email</string>
+    <string name="app_password">password</string>
+    <string name="buttom_login">login</string>
+    <string name="app_nombre">nombre</string>
+    <string name="app_apellido">apellido</string>
+    <string name="buttom_register">register</string>
+    <string name="buttom_crear">crear cuenta</string>
+    <string name="buttom_volver">volver</string>
+    <string name="app_marca">marca</string>
+    <string name="app_id">id</string>
+    <string name="app_modelo">Modelo</string>
+    <string name="app_ram">RAM</string>
+    <string name="app_s_o_sistema_operativo">S.O (sistema operativo)</string>
+    <string name="app_rut_del_due_o">rut del propietario</string>
+    <string name="app_estado">Estado</string>
+    <string name="app_requerimiento">requerimiento</string>
+    <string name="button_ingresar">ingresar</string>
+</resources>
